@@ -5,7 +5,7 @@ body {
 }
 /*--- navigation bar ---*/
 .navbar {
-  background:#6ab446;
+  background:#2d2e3b;
 }
 .nav-link,
 .navbar-brand {
@@ -22,7 +22,7 @@ body {
   justify-content: flex-end;
 }
 .header {
-  background-image: url("../images/laituri.png");
+  background-image: url("../images/laiduri.jpg");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -33,7 +33,7 @@ body {
   min-width: 100%;
   left: 0;
   top: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 16, 107, 0.349);
 }
 .description {
   left: 50%;
@@ -44,7 +44,7 @@ body {
 }
 
 .description h1 {
-  color: #6ab446;
+  color: #ffffff;
 }
 
 .description p {
@@ -53,8 +53,8 @@ body {
   line-height: 1.5;
 }
 .description button {
-  border:1px solid #6ab446;
-  background:#6ab446;
+  border:1px solid #2d2e3b;
+  background:#2d2e3b;
   border-radius: 0;
   color:#fff;
 }
