@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  background: #f2f6e9;
+  background:#ccccdb;
 }
 /*--- navigation bar ---*/
 .navbar {
@@ -72,6 +72,13 @@ body {
 }
 
 .feature-title {
+  color: #333;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.form-title {
   color: #333;
   font-size: 1.3rem;
   font-weight: 700;
