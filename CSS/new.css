@@ -1,6 +1,7 @@
 body {
   padding: 0;
   margin: 0;
+
   background:#ccccdb;
 }
 /*--- navigation bar ---*/
@@ -120,5 +121,9 @@ body {
   border-radius: 50%;
   overflow: hidden;
   margin-top: -6px;
+}
+.footer {
+  color:#fff;
+  
 }
 }
