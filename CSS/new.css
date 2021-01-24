@@ -14,7 +14,9 @@ body {
   cursor: pointer;
 }
 .nav-link {
-  margin-right: 1em !important;
+  margin-right: 6em !important;
+  font-size: larger;
+  
 }
 .navbar-brand:hover,
 .nav-link:hover {
@@ -82,6 +84,8 @@ body {
   font-family: 'Courier New', Courier, monospace;
   background-color: #2d2e3b;
 }
+
+/*---Styling for footer links---*/
 .linku, a {
   color: rgb(255, 255, 255);
   font-size: 1.0rem;
@@ -140,6 +144,9 @@ body {
   .features {
     margin: 0;
     background-color: #2d2e3b;
+  }
+  html {
+    scroll-behavior: smooth;
   }
 
 .logo-image{
