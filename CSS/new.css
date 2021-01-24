@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  background:#ccccdb;
+  background:#2d2e3b;
   font-family: 'Courier New', Courier, monospace;
 }
 /*--- navigation bar ---*/
@@ -14,7 +14,9 @@ body {
   cursor: pointer;
 }
 .nav-link {
-  margin-right: 1em !important;
+  margin-right: 6em !important;
+  font-size: larger;
+  
 }
 .navbar-brand:hover,
 .nav-link:hover {
@@ -80,16 +82,28 @@ body {
   text-transform: uppercase;
   text-align:center; 
   font-family: 'Courier New', Courier, monospace;
+  background-color: #2d2e3b;
+}
+
+/*---Styling for footer links---*/
+.linku, a {
+  color: rgb(255, 255, 255);
+  font-size: 1.0rem;
+  font-weight: 700;
+  margin-bottom: 20px;
   
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
 }
 .footpara {
   color: rgb(255, 255, 255);
   font-size: 1.0rem;
   font-weight: 700;
   margin-bottom: 20px;
-  text-transform: lowercase;
+  
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
+  
 } 
 .form-title {
   color: #333;
@@ -105,7 +119,8 @@ body {
   margin-bottom: 16px;
 }
 .footer {
-  color:#fff;
+  color:#2d2e3b;
+  background-color: #2d2e3b;
 }
 
 @media (max-width: 575.98px) {
@@ -128,6 +143,10 @@ body {
   
   .features {
     margin: 0;
+    background-color: #2d2e3b;
+  }
+  html {
+    scroll-behavior: smooth;
   }
 
 .logo-image{
