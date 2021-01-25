@@ -7,8 +7,6 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    position:absolute;
-    padding-left: 45px;
 }
 .single-box{
     position: relative;
