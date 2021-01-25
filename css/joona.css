@@ -2,12 +2,13 @@ body{
     background: #262626;
 }
 .box-area{
-    position:static;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    position:absolute;
+    padding-left: 45px;
 }
 .single-box{
     position: relative;
