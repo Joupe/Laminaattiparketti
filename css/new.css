@@ -1,12 +1,12 @@
 body {
   padding: 0;
   margin: 0;
-  background:#a7a7a7;
-  font-family: 'Courier New', Courier, monospace;
+  background: #a7a7a7;
+  font-family: "Courier New", Courier, monospace;
 }
 /*--- navigation bar ---*/
 .navbar {
-  background:#2d2e3b;
+  background: #2d2e3b;
 }
 .nav-link,
 .navbar-brand {
@@ -16,7 +16,6 @@ body {
 .nav-link {
   margin-right: 6em !important;
   font-size: larger;
-  
 }
 .navbar-brand:hover,
 .nav-link:hover {
@@ -57,16 +56,16 @@ body {
   line-height: 1.5;
 }
 .description button {
-  border:1px solid #2d2e3b;
-  background:#2d2e3b;
+  border: 1px solid #2d2e3b;
+  background: #2d2e3b;
   border-radius: 0;
-  color:#fff;
+  color: #fff;
 }
 
 .description button:hover {
-  border:1px solid #fff;
-  background:#fff;
-  color:#000;
+  border: 1px solid #fff;
+  background: #fff;
+  color: #000;
 }
 .features {
   margin: 4em auto;
@@ -80,31 +79,31 @@ body {
   font-weight: 700;
   margin-bottom: 20px;
   text-transform: uppercase;
-  text-align:center; 
-  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
   background-color: #2d2e3b;
 }
 
 /*---Styling for footer links---*/
-.linku, a {
+.linku,
+a {
   color: rgb(255, 255, 255);
-  font-size: 1.0rem;
+  font-size: 1rem;
   font-weight: 700;
   margin-bottom: 20px;
-  
+
   text-align: center;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 .footpara {
   color: rgb(255, 255, 255);
-  font-size: 1.0rem;
+  font-size: 1rem;
   font-weight: 700;
   margin-bottom: 20px;
-  
+
   text-align: center;
-  font-family: 'Courier New', Courier, monospace;
-  
-} 
+  font-family: "Courier New", Courier, monospace;
+}
 .form-title {
   color: #333;
   font-size: 1.3rem;
@@ -119,7 +118,7 @@ body {
   margin-bottom: 16px;
 }
 .footer {
-  color:#2d2e3b;
+  color: #2d2e3b;
   background-color: #2d2e3b;
   height: 300px;
 }
@@ -133,15 +132,15 @@ body {
     transform: none;
     text-align: center;
   }
-  
+
   .description h1 {
     font-size: 2em;
   }
-  
+
   .description p {
     font-size: 1.2rem;
   }
-  
+
   .features {
     margin: 0;
     background-color: #2d2e3b;
@@ -150,11 +149,11 @@ body {
     scroll-behavior: smooth;
   }
 
-.logo-image{
-  width: 46px;
-  height: 46px;
-  border-radius: 50%;
-  overflow: hidden;
-  margin-top: -6px;
-}
+  .logo-image {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+  }
 }
