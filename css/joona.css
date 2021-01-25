@@ -35,7 +35,7 @@ body{
     padding: 20px;
     background-size: cover;
     background-position: center center;
-    background-image: url(../IMAGES/lapland-2984828_960_720.png) ;
+    background-image: url(../images/lapland-2984828_960_720.png) ;
 }
 .img-area2{
     position: relative;
@@ -50,7 +50,7 @@ body{
     padding: 20px;
     background-size: cover;
     background-position: center center;
-    background-image: url(../IMAGES/bergen.jpg) ;
+    background-image: url(../images/bergen.jpg) ;
 }
 .img-area3{
     position: relative;
@@ -65,7 +65,7 @@ body{
     padding: 20px;
     background-size: cover;
     background-position: center center;
-    background-image: url(../IMAGES/peterhof.jpg) ;
+    background-image: url(../images/peterhof.jpg) ;
 }
 .img-area4{
     position: relative;
@@ -80,7 +80,7 @@ body{
     padding: 20px;
     background-size: cover;
     background-position: center center;
-    background-image: url(../IMAGES/stockholm-1824368_960_720.png) ;
+    background-image: url(../images/stockholm-1824368_960_720.png) ;
 }
 
 .header-text{
